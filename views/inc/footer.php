@@ -10,11 +10,18 @@
 							<ul>
 								<li><a href="<?= base_url('about-us');?>">About Us</a></li>
 								<li><a href="<?= base_url('contact-us');?>">Contact Us</a></li>
-								<li><a href="#">Careers</a></li>
-								<li><a href="#">All Cities</a></li>
 								<li><a href="<?= base_url('help-support');?>">Help & Support</a></li>
 								<li><a href="#">Advertise With Us</a></li>
+								<li><a href="https://www.youtube.com/watch?v=kVOQDQtGN-M&feature=youtu.be">Free pro Account</a></li>
+
+								<li><a href="https://www.youtube.com/watch?v=Vx6zGz8r08A&feature=youtu.be">What  is Hire</a></li>
+								<li><a href="https://www.youtube.com/watch?v=jAeLWEJU0QQ&feature=youtu.be">What  is Swap</a> </li>
 								<li><a href="#">Blog</a></li>
+
+						
+						 
+						
+						
 							</ul>
 						</div>
 					</div><!-- footer-widget -->
@@ -37,12 +44,14 @@
 					<!-- footer-widget -->
 					<div class="col-sm-3">
 						<div class="footer-widget social-widget">
+
 							<h3>Follow us on</h3>
 							<ul>
-								<li><a href="#"><i class="fa fa-facebook-official"></i>Facebook</a></li>
-								<li><a href="#"><i class="fa fa-twitter-square"></i>Twitter</a></li>
-								<li><a href="#"><i class="fa fa-google-plus-square"></i>Google+</a></li>
-								<li><a href="#"><i class="fa fa-youtube-play"></i>youtube</a></li>
+								<li><a href="https://www.facebook.com/SwapShop-383687028674973/?ref=aymt_homepage_panel"><i class="fa fa-facebook-official"></i>Facebook</a></li>
+								<li><a href="https://twitter.com/swapiee1997"><i class="fa fa-twitter-square"></i>Twitter</a></li>
+								<li><a href="https://plus.google.com/104892825234543005333"><i class="fa fa-google-plus-square"></i>Google+</a></li>
+								<li><a href="https://www.youtube.com/channel/UCWGjI5S5pvVnv95C46TIO3g"><i class="fa fa-youtube-play"></i>youtube</a></li>
+								<li><a href="https://www.instagram.com/swapiee1997/"><i class="fa fa-instagram"></i>Instagram</a></li>
 							</ul>
 						</div>
 					</div><!-- footer-widget -->
@@ -60,6 +69,7 @@
 						</div>
 					</div><!-- footer-widget -->
 				</div><!-- row -->
+		
 			</div><!-- container -->
 		</section><!-- footer-top -->
 
